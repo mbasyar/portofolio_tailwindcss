@@ -637,6 +637,10 @@ video {
   flex-wrap: wrap;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .self-center {
   align-self: center;
 }
